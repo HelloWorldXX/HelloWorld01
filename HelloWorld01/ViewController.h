@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)versionControl:(id)sender;
 
 @end
 
